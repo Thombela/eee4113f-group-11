@@ -1,0 +1,16 @@
+{
+  "entryId": 623,
+  "timestamp": "2026-05-21T14:00:49Z",
+  "decoded_payload": {
+    "battery_percent": 0,
+    "dissolved_oxygen_mg_L": 6.82,
+    "image_size_kB": 0,
+    "latitude": -33.95858,
+    "longitude": 18.460293,
+    "mission_packet": "",
+    "salinity_ppt": 31.88,
+    "system_status": "OK",
+    "temperature_C": 25.64,
+    "tilt_x": 0
+  }
+}
